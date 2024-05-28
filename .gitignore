@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+models.zip
+models
+/src/plots
+
+.vscode/
+.vsls.json
+*.err
+*.out
